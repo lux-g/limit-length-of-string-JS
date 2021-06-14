@@ -5,3 +5,6 @@ const truncate = (string, num) => {
 }
 
 console.log(truncate(text, 100))
+
+
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda cumque tempore nisi quae magnam...
